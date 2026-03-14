@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://newmethod.co.jp/newmethod.github.io/sitemap.xml
