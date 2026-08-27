@@ -1,5 +1,4 @@
 User-Agent: *
 Allow: /
 
-Host: https://newmethod.co.jp
 Sitemap: https://newmethod.co.jp/sitemap.xml
